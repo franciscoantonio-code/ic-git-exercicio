@@ -1,4 +1,4 @@
-# IC_P7_exercicios
+# Projeto de Introdução à Computação - Versão B
 repositório para exercicios de git (aula 7 pratica)
 
 * **FUNCIONALIDADES**
