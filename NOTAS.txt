@@ -1,0 +1,3 @@
+mexer com o git e criar repositórios locais
+criar repositórios no github
+Ligar um repositório local a um do github
